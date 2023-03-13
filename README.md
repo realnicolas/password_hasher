@@ -1,4 +1,4 @@
-# QR Code Generator
+# Password Hasher
 
 - [English](#english)
 - [Português](#português)
