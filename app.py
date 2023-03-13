@@ -3,7 +3,7 @@ from werkzeug.security import generate_password_hash
 def main():
 
     hash = hash_password(input("Enter the password to be hashed: "))
-    print(hash)
+    print("Hash:", hash)
 
 def hash_password(password):
     """
